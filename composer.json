@@ -1,5 +1,5 @@
 {
-  "name": "opensearch-project/opensearch-php",
+  "name": "marcocot/opensearch-php",
   "description": "PHP Client for OpenSearch",
   "keywords": ["search","client", "opensearch","elasticsearch"],
   "type": "library",
